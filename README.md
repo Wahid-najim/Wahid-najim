@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wahid-najim
-- 👀 I’m interested in python , Ml and robotics
-- 🌱 I’m currently learning python,js,react
+- 👀 I’m interested in python , Ml and robotics , Cyber  security
+- 🌱 I’m currently learning python,bash,Ethecal Hacking
 - 💞️ I’m looking to collaborate on making cool projects
 - 📫 How to reach me adityawahid16@gmail.com
 
