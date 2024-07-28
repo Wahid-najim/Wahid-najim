@@ -47,9 +47,9 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahidnajim&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahid-najim&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidnajim&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid-najim&layout=compact&theme=radical)
 
 ---
 
