@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=Security+Researcher+%F0%9F%94%90;Polymath+%E2%9C%8A+%F0%9F%8E%93+in+Math%2C+Physics%2C+Art%2C+Robotics+%26+AI;Storyteller+%F0%9F%93%96%2C+Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
-  <br>
+
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
 
