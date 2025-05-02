@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF66&center=true&vCenter=true&width=900&lines=Security+Researcher+%F0%9F%94%90;Polymath+%E2%9C%8A+%F0%9F%8E%93+in+Math%2C+Physics%2C+Art%2C+Robotics+%26+AI;Storyteller+%F0%9F%93%96%2C+Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF66&center=true&vCenter=true&width=900&lines=Security+Researcher+%F0%9F%94%90;Polymath+%E2%9C%8A+%F0+Robotics+%26+AI;+Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
   <br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
@@ -18,15 +18,14 @@ Welcome to my digital frontier, where I blend the precision of security research
 Deeply engaged in web app penetration testing, bug bounty hunting, and CTF challenges. Specialized in vulnerability exploitation, focusing on OWASP Top 10, SSRF, XSS, IDORs, and logic flaws. Developer of **RexC0n** – a powerful recon automation tool tailored to the needs of real-world bug bounty hunting.
 
 🧬 **Polymath**:  
-Expert in **Math, Physics**, and **AI** with a sharp eye for patterns and the ability to solve complex problems in innovative ways. I approach challenges from a multi-disciplinary angle, constantly bridging knowledge gaps.
+Expert in **Math, Physics,Story-writing,Drawing** with a sharp eye for patterns and the ability to solve complex problems in innovative ways. I approach challenges from a multi-disciplinary angle, constantly bridging knowledge gaps.
 
 🤖 **Robotics Engineer**:  
 I design and build advanced robots with AI integration. Key projects include **RescueBot**, a disaster response robot, **ESP32-CAM Vision Bot** for real-time object detection, and **AI-enhanced Robotic Arms** for complex, adaptive tasks.
 
-🖋️ **Creative Storyteller**:  
-I weave technology into stories, exploring the future of AI, cyberpunk worlds, and human-machine relationships. My writing not only pushes the boundaries of fiction but also informs real-world tech development.
 
-🎯 **Bug Hunter (Web)**:  
+
+🎯 **Bug Hunter **:  
 Specializing in advanced bug hunting techniques. I focus on finding vulnerabilities others might miss and strive to develop tools and methodologies to streamline the process of identifying weak points in applications.
 
 ---
@@ -45,11 +44,6 @@ A smart surveillance bot with real-time object detection and autonomous navigati
 **🦾 AI Robotic Arm**  
 An AI-enhanced robotic arm capable of performing precision tasks, using **Image Recognition** and **Reinforcement Learning** for adaptive actions.
 
-**🧠 AI Behavior Models**  
-Developing autonomous robots using **Fuzzy Logic**, **Reinforcement Learning**, and **PID Control** to simulate intelligent decision-making behavior.
-
-**🔬 Sensor Fusion Bots**  
-Robots that integrate multiple sensors like **IR**, **Ultrasonic**, and **MAX30100** to understand their environment in a complex, dynamic way.
 
 ---
 
