@@ -1,24 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF66&center=true&vCenter=true&width=900&lines=Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF66&center=true&vCenter=true&width=900&lines=Security+Researcher+%F0%9F%94%90;Polymath+%E2%9C%8A+%F0+Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
   <br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
 
 ---
 
-# 👨‍💻 Wahid Najim — Robotics Engineer | Polymath
+# 👨‍💻 Wahid Najim — Security Researcher | Polymath | Robotics Engineer
 
-Welcome to my digital frontier, where I blend the ingenuity of robotics engineering and the boundless creativity of storytelling.
+Welcome to my digital frontier, where I blend the precision of security research, the ingenuity of robotics engineering, and the boundless creativity of storytelling.
 
 ---
 
 ## 🧠 Who Am I?
 
-🤖 **Robotics Engineer**:  
-I design and build advanced robots, focusing on real-world applications. Key projects include **RescueBot**, a disaster response robot, **ESP32-CAM Vision Bot** for real-time object detection, and **AI-enhanced Robotic Arms** for complex, adaptive tasks.
+🔐 **Security Researcher (Web-focused)**:  
+Deeply engaged in web app penetration testing, bug bounty hunting, and CTF challenges. Specialized in vulnerability exploitation, focusing on OWASP Top 10, SSRF, XSS, IDORs, and logic flaws. Developer of **RexC0n** – a powerful recon automation tool tailored to the needs of real-world bug bounty hunting.
 
 🧬 **Polymath**:  
 Expert in **Math, Physics, Story-writing, Drawing** with a sharp eye for patterns and the ability to solve complex problems in innovative ways. I approach challenges from a multi-disciplinary angle, constantly bridging knowledge gaps.
+
+🤖 **Robotics Engineer**:  
+I design and build advanced robots with AI integration. Key projects include **RescueBot**, a disaster response robot, **ESP32-CAM Vision Bot** for real-time object detection, and **AI-enhanced Robotic Arms** for complex, adaptive tasks.
 
 🎯 **Bug Hunter**:  
 Specializing in advanced bug hunting techniques. I focus on finding vulnerabilities others might miss and strive to develop tools and methodologies to streamline the process of identifying weak points in applications.
@@ -26,6 +29,9 @@ Specializing in advanced bug hunting techniques. I focus on finding vulnerabilit
 ---
 
 ## 🚀 Featured Projects
+
+**🔍 RexC0n**  
+An elite recon automation framework designed for rapid bug bounty reconnaissance and enumeration.
 
 **🤖 RescueBot**  
 An Arduino Mega-based disaster response robot designed to track vitals using the **MAX30100** sensor and assist in search and rescue missions with **ESP8266** and servo motors.
@@ -48,6 +54,9 @@ An AI-enhanced robotic arm capable of performing precision tasks, using **Image 
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/MAX30100-FF4136?style=for-the-badge&logo=hackster&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 ---
