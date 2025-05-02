@@ -6,62 +6,64 @@
 
 ---
 
-# 👨‍💻 Wahid Najim — Security Researcher | Robotics Engineer | Polymath
+# 👨‍💻 Wahid Najim — Security Researcher | Bug Hunter | Robotics Engineer | Polymath
 
-Welcome to my playground of innovation, curiosity, and relentless exploration.
+Welcome to my intersection of cyberspace, robotics, and creative science — where digital security meets hands-on intelligence.
 
 ---
 
 ## 🧠 Who Am I?
 
-🔐 **Security Researcher**: I specialize in ethical hacking, CTFs, reconnaissance tools (RexC0n), and advanced network exploitation. From binary exploitation to real-world web attack vectors, I embrace the hacker mindset to protect and understand modern infrastructures.
+🔐 **Security Researcher (Web-focused)**: Passionate about bug bounty hunting, web app testing, CTFs, and deep reconnaissance. I focus on OWASP Top 10, advanced recon strategies, and building efficient hunting tools like **RexC0n**.
 
-🧬 **Polymath**: I actively explore and create across diverse domains—mathematics, physics, philosophical logic, storytelling, and expressive drawing. I thrive at the intersections of disciplines.
+🧬 **Polymath**: I blend expertise across math, physics, art, robotics, AI, and philosophical thought. My work embodies analytical rigor with artistic expression.
 
-🤖 **Robotics Engineer (AI-Integrated)**: I engineer autonomous systems and embedded platforms blending sensors, actuators, and AI. Whether it’s a robotic arm with vision, or a rescue bot powered by IoT, I design machines that think and act.
+🤖 **Robotics Engineer**: From rescue robots using sensors like **MAX30100**, to **ESP32-CAM** vision bots and robotic arms, I prototype smart hardware that interacts with the world.
 
-🖋️ **Creative**: I write captivating sci-fi stories, design complex hand-drawn schematics, and enjoy translating emotion into technical and artistic formats.
+🖋️ **Creative Storyteller**: I design fictional tech worlds, write speculative stories, and hand-draw detailed robotics schematics.
+
+🎯 **Bug Hunter (Web)**: Specializing in logic flaws, IDORs, XSS, SSRF, and endpoint analysis — finding weaknesses where others don’t look.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔥 **RescueBot**: Arduino Mega + MAX30100 + Servo + ESP8266 for real-time vitals sensing, robotic rescue operations & IoT cloud integration.
-- 🎥 **ESP32-CAM Vision Bot**: AI-powered object detection robot using computer vision and edge intelligence.
-- 🦾 **Robotic Arm AI-Controlled**: Precision robotic manipulator capable of remote actuation and CV-guided handling.
-- 🧠 **AI & Control Algorithms**: PID tuning, reinforcement learning integration for autonomous robotics behavior.
-- 🌐 **RexC0n**: A reconnaissance automation tool built for elite bug bounty hunters—custom wordlists, passive/active recon & subdomain hunting.
+- 🛡️ **RexC0n** — An elite recon automation framework tailored for real-world bug bounty recon and enumeration.
+- 🤖 **RescueBot** — A disaster rescue robot with Arduino Mega + MAX30100 + ESP8266 + Servo to track vitals and assist in missions.
+- 🎥 **ESP32-CAM Vision Bot** — Real-time object detection + autonomous navigation with OpenCV for smart surveillance.
+- 🦾 **Robotic Arm with AI** — AI-enhanced multi-axis robotic arm with image-guided control and adaptive learning.
+- 🧠 **AI Behavior Models** — Integrating fuzzy logic, reinforcement learning, and PID for intelligent decision-making robots.
+- 🔬 **Sensor Fusion Bots** — Combining IR, ultrasonic, heart rate, and image data to build contextual awareness in robotics.
 
 ---
 
 ## 🛠️ Toolbox & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/MAX30100-FF4136?style=for-the-badge&logo=hackster&logoColor=white" alt="MAX30100" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-272822?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAX30100-FF4136?style=for-the-badge&logo=hackster&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 ---
 
 ## 🎨 My Worlds Intersect
 
-✨ **Math & Physics** — Advanced problem-solving, mechanics, wave theory, logic puzzles, simulation.
+✨ **Math & Physics** — Analytical problem-solving, theoretical modeling, and simulations.
 
-🖌️ **Drawing & Schematics** — Robotics blueprints, engineering sketching, digital concept art.
+🖌️ **Art & Design** — Sketching robotics concepts, UI ideas, and building cyber-themed illustrations.
 
-🧩 **Story Writing** — Fusion of cyberpunk, AI dystopias, and speculative tech fiction.
+🧩 **Story Writing** — Writing cyberpunk tech thrillers, exploring AI ethics, and future societies.
 
-📚 **Learning** — I'm a lifelong autodidact. I spend hours breaking things, building again, and writing about it.
+📚 **Endless Curiosity** — I’m always experimenting—physically, digitally, and creatively.
 
 ---
 
@@ -70,6 +72,9 @@ Welcome to my playground of innovation, curiosity, and relentless exploration.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wahid-najim&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid-najim&layout=compact&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahid-najim&theme=monokai" />
+  <img src="https://streak-stats.demolab.com/?user=Wahid-najim&theme=tokyonight" />
 </p>
 
 ---
