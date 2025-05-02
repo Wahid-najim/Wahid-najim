@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=Security+Researcher+%F0%9F%94%90;Polymath+%E2%9C%8A+%F0%9F%8E%93+in+Math%2C+Physics%2C+Art%2C+Robotics+%26+AI;Storyteller+%F0%9F%93%96%2C+Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF66&center=true&vCenter=true&width=900&lines=Security+Researcher+%F0%9F%94%90;Polymath+%E2%9C%8A+%F0%9F%8E%93+in+Math%2C+Physics%2C+Art%2C+Robotics+%26+AI;Storyteller+%F0%9F%93%96%2C+Robotics+Engineer+%F0%9F%9A%80;Constantly+Building%2C+Breaking+%26+Re-imagining" />
   <br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
@@ -8,39 +8,55 @@
 
 # 👨‍💻 Wahid Najim — Security Researcher | Bug Hunter | Robotics Engineer | Polymath
 
-Welcome to my intersection of cyberspace, robotics, and creative science — where digital security meets hands-on intelligence.
+Welcome to my digital frontier, where I blend the precision of security research with the ingenuity of robotics engineering, and the boundless creativity of storytelling.
 
 ---
 
 ## 🧠 Who Am I?
 
-🔐 **Security Researcher (Web-focused)**: Passionate about bug bounty hunting, web app testing, CTFs, and deep reconnaissance. I focus on OWASP Top 10, advanced recon strategies, and building efficient hunting tools like **RexC0n**.
+🔐 **Security Researcher (Web-focused)**:  
+Deeply engaged in web app penetration testing, bug bounty hunting, and CTF challenges. Specialized in vulnerability exploitation, focusing on OWASP Top 10, SSRF, XSS, IDORs, and logic flaws. Developer of **RexC0n** – a powerful recon automation tool tailored to the needs of real-world bug bounty hunting.
 
-🧬 **Polymath**: I blend expertise across math, physics, art, robotics, AI, and philosophical thought. My work embodies analytical rigor with artistic expression.
+🧬 **Polymath**:  
+Expert in **Math, Physics**, and **AI** with a sharp eye for patterns and the ability to solve complex problems in innovative ways. I approach challenges from a multi-disciplinary angle, constantly bridging knowledge gaps.
 
-🤖 **Robotics Engineer**: From rescue robots using sensors like **MAX30100**, to **ESP32-CAM** vision bots and robotic arms, I prototype smart hardware that interacts with the world.
+🤖 **Robotics Engineer**:  
+I design and build advanced robots with AI integration. Key projects include **RescueBot**, a disaster response robot, **ESP32-CAM Vision Bot** for real-time object detection, and **AI-enhanced Robotic Arms** for complex, adaptive tasks.
 
-🖋️ **Creative Storyteller**: I design fictional tech worlds, write speculative stories, and hand-draw detailed robotics schematics.
+🖋️ **Creative Storyteller**:  
+I weave technology into stories, exploring the future of AI, cyberpunk worlds, and human-machine relationships. My writing not only pushes the boundaries of fiction but also informs real-world tech development.
 
-🎯 **Bug Hunter (Web)**: Specializing in logic flaws, IDORs, XSS, SSRF, and endpoint analysis — finding weaknesses where others don’t look.
+🎯 **Bug Hunter (Web)**:  
+Specializing in advanced bug hunting techniques. I focus on finding vulnerabilities others might miss and strive to develop tools and methodologies to streamline the process of identifying weak points in applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛡️ **RexC0n** — An elite recon automation framework tailored for real-world bug bounty recon and enumeration.
-- 🤖 **RescueBot** — A disaster rescue robot with Arduino Mega + MAX30100 + ESP8266 + Servo to track vitals and assist in missions.
-- 🎥 **ESP32-CAM Vision Bot** — Real-time object detection + autonomous navigation with OpenCV for smart surveillance.
-- 🦾 **Robotic Arm with AI** — AI-enhanced multi-axis robotic arm with image-guided control and adaptive learning.
-- 🧠 **AI Behavior Models** — Integrating fuzzy logic, reinforcement learning, and PID for intelligent decision-making robots.
-- 🔬 **Sensor Fusion Bots** — Combining IR, ultrasonic, heart rate, and image data to build contextual awareness in robotics.
+**🔍 RexC0n**  
+An elite recon automation framework designed for rapid bug bounty reconnaissance and enumeration.
+
+**🤖 RescueBot**  
+An Arduino Mega-based disaster response robot designed to track vitals using the **MAX30100** sensor and assist in search and rescue missions with **ESP8266** and servo motors.
+
+**🎥 ESP32-CAM Vision Bot**  
+A smart surveillance bot with real-time object detection and autonomous navigation, powered by **OpenCV** and **ESP32-CAM**.
+
+**🦾 AI Robotic Arm**  
+An AI-enhanced robotic arm capable of performing precision tasks, using **Image Recognition** and **Reinforcement Learning** for adaptive actions.
+
+**🧠 AI Behavior Models**  
+Developing autonomous robots using **Fuzzy Logic**, **Reinforcement Learning**, and **PID Control** to simulate intelligent decision-making behavior.
+
+**🔬 Sensor Fusion Bots**  
+Robots that integrate multiple sensors like **IR**, **Ultrasonic**, and **MAX30100** to understand their environment in a complex, dynamic way.
 
 ---
 
 ## 🛠️ Toolbox & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -57,24 +73,21 @@ Welcome to my intersection of cyberspace, robotics, and creative science — whe
 
 ## 🎨 My Worlds Intersect
 
-✨ **Math & Physics** — Analytical problem-solving, theoretical modeling, and simulations.
-
-🖌️ **Art & Design** — Sketching robotics concepts, UI ideas, and building cyber-themed illustrations.
-
-🧩 **Story Writing** — Writing cyberpunk tech thrillers, exploring AI ethics, and future societies.
-
-📚 **Endless Curiosity** — I’m always experimenting—physically, digitally, and creatively.
+✨ **Math & Physics** — Tackling real-world problems through the lens of mathematical rigor and physical laws.  
+🖌️ **Art & Design** — Designing intuitive user interfaces, sketching robots, and building cyberpunk-inspired visuals.  
+🧩 **Story Writing** — Writing stories that fuse technology, humanity, and future society dilemmas.  
+📚 **Endless Curiosity** — I’m a constant explorer, always pushing boundaries and questioning limits.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahid-najim&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid-najim&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahid-najim&show_icons=true&theme=highcontrast&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid-najim&layout=compact&theme=highcontrast" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahid-najim&theme=monokai" />
-  <img src="https://streak-stats.demolab.com/?user=Wahid-najim&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahid-najim&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Wahid-najim&theme=highcontrast" />
 </p>
 
 ---
